@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrewSpeak", "CrewSpeak\CrewSpeak.csproj", "{2464063B-1D31-45A8-A33D-D0F26D6B6911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrewSpeakServer", "CrewSpeakServer\CrewSpeakServer.csproj", "{069BA051-4A42-4C16-8C92-E0DA64FC1C5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{069BA051-4A42-4C16-8C92-E0DA64FC1C5A}.Debug|x86.ActiveCfg = Debug|x86
+		{069BA051-4A42-4C16-8C92-E0DA64FC1C5A}.Debug|x86.Build.0 = Debug|x86
+		{069BA051-4A42-4C16-8C92-E0DA64FC1C5A}.Release|x86.ActiveCfg = Release|x86
+		{069BA051-4A42-4C16-8C92-E0DA64FC1C5A}.Release|x86.Build.0 = Release|x86
+		{2464063B-1D31-45A8-A33D-D0F26D6B6911}.Debug|x86.ActiveCfg = Debug|x86
+		{2464063B-1D31-45A8-A33D-D0F26D6B6911}.Debug|x86.Build.0 = Debug|x86
+		{2464063B-1D31-45A8-A33D-D0F26D6B6911}.Release|x86.ActiveCfg = Release|x86
+		{2464063B-1D31-45A8-A33D-D0F26D6B6911}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
