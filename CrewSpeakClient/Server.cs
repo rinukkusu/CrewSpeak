@@ -3,7 +3,7 @@ using System.Net.Sockets;
 using System.IO;
 using System.Threading;
 
-namespace CrewSpeak
+namespace CrewSpeakClient
 {
 	public class Server
 	{

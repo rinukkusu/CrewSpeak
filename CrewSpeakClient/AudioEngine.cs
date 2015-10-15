@@ -4,7 +4,7 @@ using NAudio;
 using NAudio.Wave;
 using NAudio.CoreAudioApi;
 
-namespace CrewSpeak
+namespace CrewSpeakClient
 {
 	public class AudioEngine
 	{

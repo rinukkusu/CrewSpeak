@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CrewSpeak
+namespace CrewSpeakClient
 {
 	public class RandomBufferGenerator
 	{
